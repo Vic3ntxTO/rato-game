@@ -2,8 +2,8 @@
 vsp += grav;
 
 // Colisão vertical
-if (place_meeting(x, y + vsp, obj_2)) {
-    while (!place_meeting(x, y + sign(vsp), obj_2)) {
+if (place_meeting(x, y + vsp, obj_esgoto)) {
+    while (!place_meeting(x, y + sign(vsp), obj_esgoto)) {
         y += sign(vsp);
     }
     vsp = 0;
@@ -49,6 +49,6 @@ if (current_speed > 0) image_xscale = -2; // olhando para a direita
 if (current_speed < 0) image_xscale = 2;  // olhando para a esquerda
 
 // Pulo
-if (keyboard_check_pressed(vk_space) && place_meeting(x, y + 1, obj_2)) {
+if (keyboard_check_pressed(vk_space) && place_meeting(x, y + 1, obj_esgoto)) {
     vsp = jump;
 }

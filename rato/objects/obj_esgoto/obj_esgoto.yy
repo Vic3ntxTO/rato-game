@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_2",
+  "%Name":"obj_esgoto",
   "eventList":[],
   "managed":true,
-  "name":"obj_2",
+  "name":"obj_esgoto",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_2",
-    "path":"sprites/spr_2/spr_2.yy",
+    "name":"spr_esgoto",
+    "path":"sprites/spr_esgoto/spr_esgoto.yy",
   },
   "spriteMaskId":null,
   "visible":true,

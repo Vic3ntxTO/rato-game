@@ -14,3 +14,6 @@ dash_time = 8;        // duração do dash em steps
 dash_cooldown = 30;   // tempo de espera entre dashes
 dash_timer = 0;
 can_dash = true;      // se pode dashar
+
+queijos = 0;
+

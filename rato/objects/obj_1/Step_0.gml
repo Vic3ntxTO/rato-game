@@ -62,3 +62,4 @@ if (!can_dash && dash_timer <= 0) {
 if (keyboard_check_pressed(vk_space) && place_meeting(x, y + 1, obj_esgoto)) {
     vsp = jump;
 }
+

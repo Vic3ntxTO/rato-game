@@ -1,3 +1,4 @@
+depth = -99999999;
 // Gravidade 
 vsp += grav;
 

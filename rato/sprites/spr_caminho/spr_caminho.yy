@@ -3,7 +3,7 @@
   "%Name":"spr_caminho",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":27,
+  "bbox_left":0,
   "bbox_right":63,
   "bbox_top":0,
   "collisionKind":1,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"49ed17f8-62ee-48cf-b8e7-5b43516080fd","name":"49ed17f8-62ee-48cf-b8e7-5b43516080fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"104f3523-b52c-4a84-97cf-6379925c324a","name":"104f3523-b52c-4a84-97cf-6379925c324a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"6b48cb10-401e-4cde-9dd1-55c3edcdf99f","blendMode":0,"displayName":"default","isLocked":false,"name":"6b48cb10-401e-4cde-9dd1-55c3edcdf99f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"24230922-1eb0-49ba-b0de-4229b085c709","blendMode":0,"displayName":"default","isLocked":false,"name":"24230922-1eb0-49ba-b0de-4229b085c709","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_caminho",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"49ed17f8-62ee-48cf-b8e7-5b43516080fd","path":"sprites/spr_caminho/spr_caminho.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"270d1272-3573-4412-8c1f-d9730088aca7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"104f3523-b52c-4a84-97cf-6379925c324a","path":"sprites/spr_caminho/spr_caminho.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"45b7d5d0-664b-49df-ac8e-5d6702ccd030","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

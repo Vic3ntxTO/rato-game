@@ -1,5 +1,11 @@
 var _nextRoom = other.nextRoom;
-room_goto(_nextRoom);
-x = other.newX;
-y = other.newY;
-other.canCreate = false;
+var _newX = other.newX;
+var _newY = other.newY;
+
+if (_nextRoom != noone)
+{
+	room_goto(_nextRoom);
+	x = _newX;
+	y = _newY;
+	other.canCreate = false;
+}

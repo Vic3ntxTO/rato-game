@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_caminho_",
+  "%Name":"obj_falaXd",
   "eventList":[],
   "managed":true,
-  "name":"obj_caminho_",
+  "name":"obj_falaXd",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_caminho",
-    "path":"sprites/spr_caminho/spr_caminho.yy",
+    "name":"spr_falaxd",
+    "path":"sprites/spr_falaxd/spr_falaxd.yy",
   },
   "spriteMaskId":null,
   "visible":true,

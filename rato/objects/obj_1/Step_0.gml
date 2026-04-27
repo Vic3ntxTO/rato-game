@@ -64,3 +64,19 @@ if (keyboard_check_pressed(vk_space) && place_meeting(x, y + 1, obj_esgoto)) {
     vsp = jump;
 }
 
+
+if (place_meeting(x+1, y, obj_caminho))
+{
+	var _nextRoom = obj_caminho.nextRoom;
+	var _newX = obj_caminho.newX;
+	var _newY = obj_caminho.newY;
+
+	if (_nextRoom != noone)
+	{
+		room_goto(_nextRoom);
+		x = _newX;
+		y = _newY;
+		other.canCreate = false;
+	}
+}
+

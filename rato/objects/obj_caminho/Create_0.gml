@@ -1,7 +1,7 @@
 canCreate = true;
-nextRoom = noone;
-newX = 0;
-newY = 0;
+//nextRoom = noone;
+//newX = 0;
+//newY = 0;
 
 if(canCreate)
 {

@@ -17,3 +17,6 @@ can_dash = true;      // se pode dashar
 
 queijos = 0;
 
+newX = 0;
+newY = 0;
+

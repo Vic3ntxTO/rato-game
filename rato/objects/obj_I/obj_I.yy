@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_SOFA",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_I",
+  "eventList":[],
   "managed":true,
-  "name":"obj_SOFA",
+  "name":"obj_I",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_SOFA",
-    "path":"sprites/spr_SOFA/spr_SOFA.yy",
+    "name":"Sprite19",
+    "path":"sprites/Sprite19/Sprite19.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -16,7 +16,7 @@ if(canCreate)
 	part_type_life(wallPartype,17,35);
 
 	part_type_speed(wallPartype,5,10, -0.1,0);
-	part_type_direction(wallPartype,170, 190,0,0);
+	part_type_direction(wallPartype,0, 0,0,0);
 
 	wallEmitter = part_emitter_create(wallSystem)
 
